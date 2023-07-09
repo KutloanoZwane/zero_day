@@ -1,1 +1,1 @@
-This is my first repository
+how to code in your local computer
